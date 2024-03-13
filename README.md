@@ -1,3 +1,4 @@
 # Code-with-iqrar
-This is my first git repository.
-Author iqrar Hussain 
+This is my first git repositor
+<br>
+Author -iqrar
